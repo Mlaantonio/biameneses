@@ -87,12 +87,12 @@ export default function Home() {
           <a href="#inicio" className="flex items-center gap-5">
             <img 
               src="/logo.png" 
-              alt="Logótipo Bia Meneses" 
+              alt="Logótipo Beatriz Meneses" 
               className="h-20 w-auto object-contain m-[5px]" 
             />
             
             <span className="text-xl font-semibold tracking-tight">
-              Bia Meneses
+              Beatriz Meneses
             </span>
           </a>
 
